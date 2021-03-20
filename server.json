@@ -1,28 +1,28 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
-      "price": "19.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
-    },
-    {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
-    },
-    {
       "id": 3,
-      "name": "A la Camarón",
+      "name": "A la Camarón 2",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://uploads.disquscdn.com/images/444436de279b59e2ef663d6c1a4114a5b846697096ae6d8c085e574dfe378408.png",
+      "name": "Coffee Tatakae",
+      "price": "20",
+      "description": "Café para aquele que querem destruir toda humanidade",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2020/08/10/shutterstock710490088-768x512.jpg",
+      "name": "Almoço saudável",
+      "price": "50",
+      "description": "Um excelente pedido para quem quer comer uma comida saudável e gostosa",
+      "available": true,
+      "id": 5
     }
   ]
 }
